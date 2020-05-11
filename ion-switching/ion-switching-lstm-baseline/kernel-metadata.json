@@ -1,17 +1,17 @@
 {
-  "id": "vladlee/ion-switching-lgb-regression-model-v5",
-  "id_no": 9139399,
-  "title": "Ion switching - LGB regression model - V5",
+  "id": "vladlee/ion-switching-lstm-baseline",
+  "id_no": 8225108,
+  "title": "Ion Switching - lstm baseline",
   "code_file": "ion-switching-lstm-baseline.ipynb",
   "language": "python",
   "kernel_type": "notebook",
-  "is_private": true,
+  "is_private": false,
   "enable_gpu": false,
   "enable_internet": false,
-  "keywords": [],
-  "dataset_sources": [
-    "cdeotte/data-without-drift"
+  "keywords": [
+    "gpu"
   ],
+  "dataset_sources": [],
   "kernel_sources": [],
   "competition_sources": [
     "liverpool-ion-switching"
